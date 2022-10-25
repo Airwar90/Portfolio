@@ -5,16 +5,36 @@
 
 .navbar {
 	background-color:rgb(68, 72, 82);
+	color: black;
 	
 }
-.navbar-left {
+
+
+
+.nav-item:hover {	
 	
-	margin
+	background-color: white;
+
 }
+
+.dropdown-menu {
+	background-color: rgb(68, 72, 82);
+}
+
+
 body {
 	background-color:black;
 	margin:auto;
 }
+
+a {
+
+	color: black;
+}
+a:hover {
+	color: white;
+}
+
 header {
 	margin-top: 30px;
 	margin-bottom: 30px;
